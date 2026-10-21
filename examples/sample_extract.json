@@ -1,0 +1,37 @@
+{
+ "source": "https://1.mlj94.com/xxxxxx",
+ "blocks": [
+  {"type": "img", "src": "https://example.com/cover.png", "alt": "作业封面", "soft": false},
+  {"type": "text", "lines": [
+    "𝟑𝟎𝟖-𝟑𝟒𝟗💰示例商品 𝟔𝟎片",
+    "❶领消费劵 人人都有",
+    "￥xxxxTF7p7i0￥",
+    "❷领补贴礼金",
+    "① 先领补贴礼金",
+    "8฿xxxxTvoY8Cd)/ CA39",
+    "② 再领优惠券",
+    "7฿xxxxTvnMZKx)/ CA57",
+    "❸凑单加车拍完退",
+    "① 先领补贴礼金",
+    "6฿xxxxTvLnv8k)/ CA45",
+    "② 再领优惠券",
+    "8฿xxxxTvoWp3X)/ CA34"
+  ], "soft": false}
+ ],
+ "codes": {
+  "https://1.mlj94.com/xxxxxx": ["￥xxxxTF7p7i0￥", "8฿xxxxTvoY8Cd)/ CA39"]
+ },
+ "items": [
+  {"url": "https://1.mlj94.com/xxxxxx", "kind": "collection", "depth": 0, "codes": [],
+   "labels": [], "code": null, "title": "𝟑𝟎𝟖-𝟑𝟒𝟗💰示例商品 𝟔𝟎片", "img": "https://example.com/cover.png", "error": null},
+  {"url": "https://1.mlj94.com/aaaaaa", "kind": "code", "depth": 1,
+   "codes": ["￥xxxxTF7p7i0￥"], "labels": [null], "code": "￥xxxxTF7p7i0￥",
+   "title": "商品优惠券", "img": "https://example.com/item.png", "error": null},
+  {"url": "https://1.mlj94.com/bbbbbb", "kind": "code", "depth": 1,
+   "codes": ["8฿xxxxTvoY8Cd)/ CA39", "7฿xxxxTvnMZKx)/ CA57"],
+   "labels": ["① 先领补贴礼金", "② 再领优惠券"],
+   "code": "8฿xxxxTvoY8Cd)/ CA39", "title": "优惠礼金",
+   "img": "https://example.com/gift.png", "error": null}
+ ],
+ "warnings": []
+}

@@ -1,0 +1,23 @@
+# 运行产物：抓下来的页面结构、生成的文案，都别提交
+work/
+out/
+out2/
+*/extract.json
+all.json
+**/*_微信笔记.html
+**/*_纯文本.txt
+
+# 截图 / 调试图
+*.png
+*.jpg
+!docs/**/*.png
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 系统
+.DS_Store
+Thumbs.db
